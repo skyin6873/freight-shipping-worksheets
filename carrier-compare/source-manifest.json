@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R1",
+    "carrier": "R+L Carriers",
+    "url": "https://rl-cdn.com/docs/rlc/rules/rl-rules.pdf",
+    "file": "rl.pdf",
+    "locator": "Item 490, PDF page 33; Item 994, PDF page 128",
+    "edition": "cover updated October 19, 2026; Item 490 effective October 5, 2026",
+    "retrieved_date": "2026-11-03 (Asia/Shanghai)",
+    "retrieval_method": "Direct curl GET from official source URL",
+    "downloaded_bytes": 1204811,
+    "sha256": "96ab449b3d4db43d5c02dc772eed92a59043446d06539a0b55b20525a2dee56b"
+  },
+  {
+    "id": "S1",
+    "carrier": "Saia",
+    "url": "https://assets.ctfassets.net/kjv8gs2ccggb/3Y5vAsxznsXornATV1AG5D/2a8aa73ea7d0da0e7a52e4401d2ea37f/Saia_170D_10012025.pdf",
+    "file": "saia.pdf",
+    "locator": "Item 1001, PDF pages 131-132; Item 1001-A, PDF pages 132-133",
+    "edition": "170-D; cover and cited pages effective October 1, 2025; later-page amendments occur in the file; latest-version status not established",
+    "retrieved_date": "2026-11-03 (Asia/Shanghai)",
+    "retrieval_method": "Direct curl GET from official source URL",
+    "downloaded_bytes": 2037647,
+    "sha256": "5151c4fc0a08b1fa4e089659ded5cd532d101a69d977c502acdb8736c5b5e0b2"
+  },
+  {
+    "id": "M1",
+    "carrier": "Magnum LTL",
+    "url": "https://magnumlog.com/wp-content/uploads/2026/04/2026-Rules-Tariff-125-04.01.26.pdf",
+    "file": "magnum.pdf",
+    "locator": "Items 110 and 470, PDF pages 4 and 7",
+    "edition": "Rules Tariff 125 effective April 1, 2026; latest-version status not established",
+    "retrieved_date": "2026-11-03 (Asia/Shanghai)",
+    "retrieval_method": "Direct curl GET from official source URL",
+    "downloaded_bytes": 429160,
+    "sha256": "cfe75ea72fa8b8d9255d24d6d971d4742d6f3fef0b185cb70a2fac718da29d29"
+  },
+  {
+    "id": "F1",
+    "carrier": "FedEx Freight",
+    "url": "https://www.fedexfreight.fedex.com/cubecalc.jsp",
+    "file": "fedex.html",
+    "locator": "Cube Calculator instructions and calculate()/round() JavaScript",
+    "edition": "undated public calculator; not a rules tariff",
+    "retrieved_date": "2026-11-03 (Asia/Shanghai)",
+    "retrieval_method": "Direct curl GET from official source URL",
+    "downloaded_bytes": 7968,
+    "sha256": "5b61eb8ffb086c029428fd4aab3fd2c7826fb8e0b9e669f24d9d48faf8ed1940"
+  }
+]
