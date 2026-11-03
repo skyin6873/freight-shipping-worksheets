@@ -1,0 +1,7 @@
+resource_title,resource_type,source_url,checked_at_utc,http_status,downloaded_bytes,provenance
+Cargo Density Calculator,tool,https://freightclassdesk.com/cargo-density-calculator/,2026-11-03T03:00:29.226335+00:00,200,8030,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
+Palletizing Calculator,tool,https://freightclassdesk.com/palletizing-calculator/,2026-11-03T03:00:29.513169+00:00,200,8091,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
+NMFC Calculator: Your Class Result and a Reclass Check,checklist and tool,https://freightclassdesk.com/nmfc-calculator/,2026-11-03T03:00:29.718141+00:00,200,31615,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
+How many 48x40 pallets fit in a 53 foot trailer?,layout worksheet,https://freightclassdesk.com/how-many-48x40-pallets-fit-in-a-53-foot-trailer/,2026-11-03T03:00:29.938244+00:00,200,8337,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
+When to Repair or Scrap a Pallet: A Disposition Worksheet,CSV worksheet,https://freightclassdesk.com/when-to-repair-or-scrap-a-pallet/,2026-11-03T03:00:30.110013+00:00,200,9649,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
+Freight Class Calculator vs Cubic Capacity Minimum Charges,historical comparison,https://freightclassdesk.com/freight-class-calculator-vs-cubic-capacity-minimum/,2026-11-03T03:00:30.397299+00:00,200,12371,"Live unauthenticated HTTP GET; metadata inventory, not observed freight data"
