@@ -6,6 +6,8 @@ The accompanying explanations are maintained at [Freight Class Desk](https://fre
 
 ## Files
 
+- `site-resource-inventory.csv`: a live HTTP-checked inventory of source resources, including source URLs, check timestamps, status codes and downloaded byte counts. These are measured web-resource metadata, not observed freight measurements.
+
 - `density.py`: calculate total packed volume and shipment density from a CSV, using only the Python standard library.
 - `measurements-example.csv`: explicitly hypothetical input; replace it with your actual packed measurements.
 - `shipment-evidence-checklist.md`: a checklist for reconciling measurement, classification and billing evidence.
